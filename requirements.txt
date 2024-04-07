@@ -1,0 +1,8 @@
+altair<5
+numpy
+pandas
+pydeck
+streamlit
+transformers
+tensorflow
+tf-keras
